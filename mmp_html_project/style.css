@@ -5,5 +5,17 @@
  width:30;
  }
   #house {
-    width:100%;
+    width:50%;
+
+}
+#food{
+ width:30%;
+    
+}
+#bed{
+width:30%
+}
+#sleep{
+width:50%
+
 }
