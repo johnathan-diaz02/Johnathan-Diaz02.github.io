@@ -1,6 +1,50 @@
 .citation{
     font-size: .5em;
 }
+
+#redbody{
+    background-color: brown;
+}
+
+#yellowbody{
+    background-color: yellow;
+}
+#greybody{
+background-color: grey;
+
+}
+#orbody{
+    background-color: orangered;
+}
+#greenbody{
+    background-color: green;
+}
+#tanbody{
+    background-color: tan;
+}
+#fishbody{
+    background-color: salmon;
+}
+#bvbody{
+    background-color: blueviolet;
+}
+
+.p8link{
+color:black;
+}
+
+#pinkbody
+{
+    background-color: pink;
+}
+#vbody
+{
+    background-color: violet;
+}
+.p10link{
+ background-color: white;
+}
+
  #car{
  width:30;
  }
@@ -24,4 +68,13 @@ width:50%;
 }
 #club{
 width:50%
+}
+#baddie{
+    width:50%;
+}
+#dancing{
+    width: 50%;
+}
+.link{
+    margin-left: 20px;
 }
